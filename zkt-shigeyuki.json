@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 277,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-shigeyuki-0001",
@@ -3922,7 +3925,7 @@
   "blocks": 277,
   "chars": 6529,
   "poems": 277,
-  "yaku": 0,
+  "yaku": 277,
   "editions": 1,
   "updated": "2026-11-04",
   "updated_at": "2026-11-04T17:48:03+09:00"
